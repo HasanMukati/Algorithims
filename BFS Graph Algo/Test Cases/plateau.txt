@@ -1,0 +1,13 @@
+5
+4
+start 10
+plat1 5
+plat2 5
+plat3 5
+valley 0
+start plat1
+plat1 plat2
+plat2 plat3
+plat3 valley
+start
+plat3

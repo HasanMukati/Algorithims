@@ -1,0 +1,47 @@
+17
+26
+start 50
+end 50
+low0 0
+low1 0
+low2 0
+low3 0
+low4 0
+high0a 100
+high1a 100
+high2a 100
+high3a 100
+high4a 100
+high0b 100
+high1b 100
+high2b 100
+high3b 100
+high4b 100
+start low0
+start high0a
+start high0b
+low4 end
+high4a end
+high4b end
+low0 low1
+high0a high1a
+high0a high1b
+high0b high1b
+high0b high1a
+low1 low2
+high1a high2a
+high1a high2b
+high1b high2b
+high1b high2a
+low2 low3
+high2a high3a
+high2a high3b
+high2b high3b
+high2b high3a
+low3 low4
+high3a high4a
+high3a high4b
+high3b high4b
+high3b high4a
+start
+end
